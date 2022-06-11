@@ -10,7 +10,7 @@ Skills: Python / Django / JS /Docker/Aws/Design Patterns/Unit Testing/ HTML / CS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rasel497&show_icons=true)  
 
 
-- 🌱 I’m currently learning Javascript  
+- 🌱 I’m currently learning Python / Django and Javascript  
 - 💬 Ask me about software development 
 - 📫 How to reach me: rasel.csediu44@gmail.com 
 
