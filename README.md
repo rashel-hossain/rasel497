@@ -7,16 +7,6 @@ I’m a software developer who is passionate about making professional websites.
 
 Skills: Python / Django / JS /Docker/Aws/Design Patterns/Unit Testing/ HTML / CSS
 
- 
-**About me**
- I'm a self-taught passionate Software developer from Bangladesh.
- 
-- 💼 Software Engineer at [](https://rasel497.github.io/My-Portfolio/)
-
-- ❤️ I love writing JavaScript, and building fun experiments on type-level
-
-- 💬 Ask me about anything [here](https://github.com/rasel497)
-
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
