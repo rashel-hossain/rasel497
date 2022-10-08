@@ -7,7 +7,7 @@ I’m a software developer who is passionate about making professional websites.
 
 Skills: JavaScript / React / Node.js /Docker/Aws/Design Patterns/Unit Testing/ HTML / CSS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasel497)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasel497)](https://github.com/rasel497/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rasel497&show_icons=true)  
 
