@@ -18,10 +18,6 @@ Skills: JavaScript / React / Node.js /Docker/Aws/Design Patterns/Unit Testing/ H
 
 <br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rasel497)  
-
-![GitHub metrics](https://metrics.lecoq.io/rasel497)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rasel497)  
 
 ![Profile views](https://gpvc.arturio.dev/rasel497)  
