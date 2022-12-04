@@ -3,9 +3,9 @@
 
 ### Software Developer
 
-I’m a software developer who is passionate about making professional websites. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. Most of the time I work with JavaScript, React and Node.js MVC Core. I enjoy working with include Docker, AWS, Design Patterns, OOP and OOD.
+I’m a software developer who is passionate about making professional websites. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. Most of the time I work with MERN Stack development in JavaScript, React.js / Node.js / Express.js, MongoDB and Firebase authentication system, and JSON web token for authorization and MVC core. I enjoy working with include AWS, Design Patterns and OOP.
 
-Skills: JavaScript / React / Node.js /Docker/Aws/Design Patterns/Unit Testing/ HTML / CSS
+Skills: JavaScript, React.js / Node.js / Express.js, MongoDB and Firebase / JSON Web token and Design Patterns/Unit Testing/ HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasel497)](https://github.com/rasel497/github-readme-stats)
 
