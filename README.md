@@ -16,8 +16,6 @@ Skills: JavaScript / React / Node.js /Docker/Aws/Design Patterns/Unit Testing/ H
 - 📫 How to reach me: rasel.csediu44@gmail.com
 - https://rasel497.github.io/My-Portfolio/
 
-<br>
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rasel497)  
 
 ![Profile views](https://gpvc.arturio.dev/rasel497)  
