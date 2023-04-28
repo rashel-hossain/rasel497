@@ -14,7 +14,7 @@ Skills: JavaScript, React.js / Node.js / Express.js, MongoDB and Firebase / JSON
 - 🌱 I’m currently learning JavaScript /  React and  Node.js  
 - 💬 Ask me about software development 
 - 📫 How to reach me: rasel.csediu44@gmail.com
-- https://rasel497.github.io/My-Portfolio/
+-  https://portxfolio.netlify.app/
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rasel497)  
 
